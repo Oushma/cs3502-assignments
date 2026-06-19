@@ -1,0 +1,14 @@
+# Compiled programs (don't track these!)
+hello
+employee
+logwriter
+
+# Object files
+*.o
+
+# Log files
+*.log
+
+# Temporary files
+*~
+*.swp
